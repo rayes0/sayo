@@ -17,3 +17,11 @@ Color 4/12 | #987a6b | ![](img/color4_12.png)
 Color 5/13 | #877979 | ![](img/color5_13.png)
 Color 6/14 | #937f74 | ![](img/color6_14.png)
 Color 7/15 | #bebebe | ![](img/color7_15.png)
+
+
+## Inspiration
+
+- ![Amiyaa by ekickx](https://github.com/ekickx/DotThemes)
+- ![Gruvbox by morhetx](https://github.com/morhetz/gruvbox)
+- ![Rosebox by KraXen72](https://github.com/KraXen72/rosebox)
+
