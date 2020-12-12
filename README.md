@@ -1,3 +1,5 @@
+# sayo
+
 sayo is a low contrast colorscheme designed for reading and study. The goal of sayo is to be a desaturated colorscheme with a warm brown feel, allowing comfortable reading for long periods of time.
 
 While being mainly designed for prose, sayo is also suitable for code as well.
