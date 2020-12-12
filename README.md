@@ -4,8 +4,6 @@ While being mainly designed for prose, sayo is also suitable for code as well.
 
 ## Colors
 
-![Preview](img/Palette.png)
-
 Name | Hex  | Preview
 ---- | ---- | -------
 Color0 | #2a2a2a | ![](img/color0.png)
