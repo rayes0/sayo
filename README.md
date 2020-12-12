@@ -21,7 +21,7 @@ Color 7/15 | #bebebe | ![](img/color7_15.png)
 
 ## Inspiration
 
-- ![Amiyaa by ekickx](https://github.com/ekickx/DotThemes)
-- ![Gruvbox by morhetx](https://github.com/morhetz/gruvbox)
-- ![Rosebox by KraXen72](https://github.com/KraXen72/rosebox)
+- ![amiyaa by ekickx](https://github.com/ekickx/DotThemes)
+- ![gruvbox by morhetx](https://github.com/morhetz/gruvbox)
+- ![rosebox by KraXen72](https://github.com/KraXen72/rosebox)
 
