@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32px" height="32px" viewBox="0 0 32 32" version="1.1">
+<defs>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="32" height="32" style="fill:rgb(0%,0%,0%);fill-opacity:0.25;stroke:none;"/>
+  </g>
+</mask>
+<clipPath id="clip1">
+  <rect x="0" y="0" width="32" height="32"/>
+</clipPath>
+<g id="surface5" clip-path="url(#clip1)">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 0.5 28.5 C 0.5 28.777344 0.722656 29 1 29 L 31 29 C 31.277344 29 31.5 28.777344 31.5 28.5 Z M 0.5 28.5 "/>
+</g>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(20.784314%,26.274511%,29.411766%);fill-opacity:1;" d="M 2 3 C 1.722656 3.027344 1.5 3.222656 1.5 3.5 L 1.5 24.5 L 30.5 24.5 L 30.5 5.5 C 30.5 5 30 5 30 5 L 16.5 5 C 15.5 3 13.5 3 13.5 3 Z M 2 3 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 3.5 6.5 L 28.5 6.5 L 28.5 22.5 L 3.5 22.5 Z M 3.5 6.5 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(30.588236%,38.039216%,43.137255%);fill-opacity:1;" d="M 19.5 7.5 C 19.5 7.5 17.5 7.5 16.5 9.5 L 1 9.5 C 1 9.5 0.933594 9.507812 0.855469 9.53125 C 0.832031 9.535156 0.808594 9.539062 0.789062 9.550781 C 0.652344 9.605469 0.5 9.722656 0.5 10 L 0.5 28.5 C 0.5 28.777344 0.722656 29 1 29 L 31 29 C 31.277344 29 31.5 28.777344 31.5 28.5 L 31.5 8 C 31.5 7.722656 31.277344 7.5 31 7.5 Z M 19.5 7.5 "/>
+<use xlink:href="#surface5" mask="url(#mask0)"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(15.686275%,20%,22.352941%);fill-opacity:1;" d="M 16 14 L 21 18.238281 L 20.351562 19 L 16 15.308594 L 11.644531 19 L 11 18.238281 L 13 16.542969 L 13 14 L 14 14 L 14 15.695312 Z M 20 17.5 L 20 24 L 12 24 L 12 17.5 L 13 17.5 L 13 23 L 15 23 L 15 19.5 L 17 19.5 L 17 23 L 19 23 L 19 17.5 Z M 20 17.5 "/>
+</g>
+</svg>
