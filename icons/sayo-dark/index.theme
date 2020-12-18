@@ -1,6 +1,6 @@
 [Icon Theme]
 Name=sayo-dark
-Comment=sayo dark icon theme, a reskin of Papirus
+Comment=Reskin of Papirus icon theme
 Inherits=breeze,gnome,hicolor
 
 Example=folder
