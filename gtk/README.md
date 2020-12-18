@@ -1,4 +1,3 @@
-# sayo GTK theme
+**Installation:** Move the `sayo-dark` folder into `$HOME/.themes/`.
 
-This theme is *not* from scratch and is heav
-
+![](../previews/gtk-preview.png)
