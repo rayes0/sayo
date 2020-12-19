@@ -10,6 +10,8 @@ While being primarily designed for prose, sayo is also suitable for code as well
 
 ![](previews/vim-preview.png)
 
+![](previews/gtk-preview.png)
+
 ## Colors
 
 Name | Hex  | Preview
