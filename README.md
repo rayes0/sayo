@@ -4,6 +4,12 @@ sayo is a warm-toned, low contrast colorscheme designed for reading and study. T
 
 While being primarily designed for prose, sayo is also suitable for code as well.
 
+## Preview
+
+![](previews/preview.png)
+
+![](previews/vim-preview.png)
+
 ## Colors
 
 Name | Hex  | Preview
@@ -17,7 +23,6 @@ Color 4/12 | #987a6b | ![](previews/color4_12.png)
 Color 5/13 | #877979 | ![](previews/color5_13.png)
 Color 6/14 | #937f74 | ![](previews/color6_14.png)
 Color 7/15 | #bebebe | ![](previews/color7_15.png)
-
 
 ## Inspiration
 
