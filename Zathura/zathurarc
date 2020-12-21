@@ -1,0 +1,36 @@
+# zathurarc with sayo theme colours
+
+set default-bg			"#2a2a2a"
+set default-fg			"#bebebe"
+
+set highlight-color		"#937a6b"
+set highlight-active-color	"#8b8f7e"
+
+set statusbar-bg		"#3a3a3a"
+set statusbar-fg		"#8b8f7e"
+
+set index-bg			"#3a3a3a"
+set index-fg			"#bebebe"
+set index-active-bg		"#937f74"
+set index-active-fg		"#bebebe"
+
+set inputbar-bg			"#3a3a3a"
+set inputbar-fg			"#aa8f7c"
+
+set recolor-lightcolor		"#2a2a2a"
+set recolor-darkcolor		"#bebebe"
+set recolor			"true"
+
+set completion-bg		"#2a2a2a"
+set completion-fg		"#bebebe"
+set completion-group-bg		"#3a3a3a"
+set completion-group-fg		"#bebebe"
+set completion-highlight-bg	"#987a6b"
+set completion-highlight-fg	"#2a2a2a"
+
+set notification-error-bg	"#3a3a3a"
+set notification-error-fg	"#627a8a"
+set notification-warning-bg	"#3a3a3a"
+set notification-warning-fg	"#627a8a"
+set notification-bg		"#3a3a3a"
+set notification-fg		"#8b8f7e"
