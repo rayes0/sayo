@@ -88,7 +88,7 @@ endfunction
 " Arguments: group, guifg, guibg, ctermfg, ctermbg, attr, guisp
 
 " Editor
-call s:hl("Normal", s:color7, "", s:color7_term, "", "", "")
+call s:hl("Normal", s:color7, s:color0, s:color7_term, s:color0_term, "", "")
 call s:hl("Error", s:color0, s:color6, s:color0_term, s:color6_term, "bold", "")
 call s:hl("ErrorMsg", s:color3, "", s:color3_term, "", "", "")
 call s:hl("Cursor", s:color0, "", s:color0_term, "", "", "")
@@ -116,7 +116,7 @@ call s:hl("SpecialKey", s:color1, "", s:color1_term, "", "", "")
 call s:hl("Directory", s:color4, "", s:color4_term, "", "bold", "")
 call s:hl("ErrorMsg", s:color0, s:color2, s:color0_term, s:color2_term, "", "")
 call s:hl("Search", s:color0, s:color6, s:color0_term, s:color6_term, "", "")
-call s:hl("IncSearch", s:color0, s:color6, s:color0_term, s:color6_term, "", "")
+call s:hl("IncSearch", s:color5, s:color0, s:color5_term, s:color0_term, "", "")
 call s:hl("MoreMsg", s:color4, "", s:color4_term, "", "", "")
 call s:hl("ModeMsg", s:color6, "", s:color6_term, "", "", "")
 call s:hl("Question", s:color3, "", s:color3_term, "", "", "")
@@ -191,5 +191,6 @@ call s:hl("cssColor", s:color3, "", s:color3_term, "", "", "")
 " JavaScript
 call s:hl("javaScript", s:color4, "", s:color4_term, "", "", "")
 call s:hl("javaScriptBraces", s:color4, "", s:color4_term, "", "","")
+
 
 " TODO: Add more language-specific highlight groups
